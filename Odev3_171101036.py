@@ -59,3 +59,4 @@ def main():
             testPassTwo(cryptPass)
             testPassThree(cryptPass)
 
+main()
